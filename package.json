@@ -13,5 +13,7 @@
     "express": "^4.13.4"
   },
   "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.0.6"
   }
 }
